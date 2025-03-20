@@ -1,7 +1,7 @@
 body{
     display: flex;
     align-items: center;
-    background-image: url('../imagens/Captura-de-pantalla-2022-03-11-a-las-10.51.35.png');
+    background-image: url('Captura-de-pantalla-2022-03-11-a-las-10.51.35.png');
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
@@ -82,13 +82,15 @@ label{
 
 #resultado{
     width: inherit;
-    height: 100px;
+    height: 130px;
     background-color: rgb(0, 0, 0);
     color: #ffffff;
     box-sizing: border-box;
     padding-top: 2px;
     font-family: cursive;
-    font-size: 5em;
+    font-size: 50px;
     font-weight: bold;
     text-align: center;
 }
+
+
